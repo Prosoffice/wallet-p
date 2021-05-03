@@ -2,7 +2,7 @@
 
 ## WALLET-P API
 
-Wallet-p is a custom wallet system, a REST-based programming interface built with Python, using Flask, a light Python framework. The API is designed to allow seamless e-commerce transactions across multiple currencies.
+Wallet-p is a custom wallet system, a REST-based programming interface built with Python, using Flask, a light/micro framework. The API is designed to allow seamless e-commerce transactions across multiple currencies.
 
 API DOCS - https://prosperdev.medium.com/api-documentation-wallet-p-8562830f7a13
 
