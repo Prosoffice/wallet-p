@@ -12,11 +12,11 @@ Wallet-p is a custom wallet system, a REST-based programming interface built wit
 
 ##### TECHNOLOGIES
 
-REST - API
-FLASK - Python micro Web framework
-POSTGRESQL - Database
-HEROKU - Hosting service
-Github Actions - Continuous integration (CI)
+- REST - API
+- FLASK - Python micro Web framework
+- POSTGRESQL - Database
+- HEROKU - Hosting service
+- Github Actions - Continuous integration (CI)
 
 
 ADMIN LOGIN CREDENTIALS
