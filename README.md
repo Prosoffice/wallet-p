@@ -12,10 +12,14 @@ Wallet-p is a custom wallet system, a REST-based programming interface built wit
 
 ##### TECHNOLOGIES
 
-This REST-based programming interface is built with Flask, a light/micro framework writted in Python.
+REST - API
+FLASK - Python micro Web framework
+POSTGRESQL - Database
+HEROKU - Hosting service
+Github Actions - Continuous integration (CI)
 
 
-**ADMIN LOGIN CREDENTIALS**
+ADMIN LOGIN CREDENTIALS
 `
 {
   "email": "admin@gmail.com",
