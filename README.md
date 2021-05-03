@@ -26,7 +26,7 @@ ADMIN LOGIN CREDENTIALS
   "password": "testpass"
 }
 `
-#### GETTING STARTED LOCALLY
+#### GETTING STARTED LOCALLY (UBUNTU/MAC OS)
 
 1. Clone this repo: 
   
@@ -47,4 +47,8 @@ ADMIN LOGIN CREDENTIALS
 5. Run application
   
   `flask run`
+  
+## IMPORTANT NOTE
+Please edit the config file as well as the test file. Hardcode your custom database uri in the relevant variables. I know it's bad design and that will be fixed upon next release. Thanks :) 
 
+Also 'Getting started locally' instructions for **Windows OS** will be release in due course. 
