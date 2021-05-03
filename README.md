@@ -1,7 +1,4 @@
-
-
-![example workflow](https://github.com/prosoffice/wallet_p/actions/workflows/.github/workflows/app.yml/badge.svg)
-
+![example workflow](https://github.com/prosoffice/wallet-p/actions/workflows/.github/workflows/app.yml/badge.svg)
 
 # WALLET-P API
 
@@ -11,7 +8,9 @@ Wallet-p is a custom wallet system, a REST-based programming interface built wit
 
 **HOSTED APPLICATION LINK** - https://wallet-p.herokuapp.com/
 
-### TECHNOLOGIES
+
+
+##### TECHNOLOGIES
 
 This REST-based programming interface is built with Flask, a light/micro framework writted in Python.
 
@@ -23,7 +22,7 @@ This REST-based programming interface is built with Flask, a light/micro framewo
   "password": "testpass"
 }
 `
-#### GETTING STARTED LOCALLY
+##### GETTING STARTED LOCALLY
 
 1. Clone this repo: 
   
