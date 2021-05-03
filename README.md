@@ -1,6 +1,6 @@
 
 
-![example workflow](https://github.com/prosoffice/wallet_p/actions/workflows/.github/workflows/python-app.yml/badge.svg)
+![example workflow](https://github.com/prosoffice/wallet_p/actions/workflows/.github/workflows/app.yml/badge.svg)
 
 
 # WALLET-P API
@@ -23,7 +23,7 @@ This REST-based programming interface is built with Flask, a light/micro framewo
   "password": "testpass"
 }
 `
-## GETTING STARTED LOCALLY
+#### GETTING STARTED LOCALLY
 
 1. Clone this repo: 
   
